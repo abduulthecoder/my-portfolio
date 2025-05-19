@@ -76,7 +76,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Email</h3>
-                <p className="text-muted-foreground break-all">abdulrahman.saleh@example.com</p>
+                <p className="text-muted-foreground break-all">abduulthecoder@gmail.com</p>
               </div>
             </div>
             <div className="flex items-start p-4 bg-card rounded-lg shadow-md">
@@ -85,7 +85,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Phone</h3>
-                <p className="text-muted-foreground">+1 234 567 8900</p>
+                <p className="text-muted-foreground">+1 949 795 1367</p>
               </div>
             </div>
             <div className="flex items-start p-4 bg-card rounded-lg shadow-md">
@@ -94,7 +94,7 @@ const Contact = () => {
               </div>
               <div>
                 <h3 className="text-lg font-semibold">Location</h3>
-                <p className="text-muted-foreground">123 Creative Street, Web City, WC 54321</p>
+                <p className="text-muted-foreground">Orange County, California USA</p>
               </div>
             </div>
           </motion.div>
